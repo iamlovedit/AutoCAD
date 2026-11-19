@@ -67,7 +67,3 @@
 ## AutoCAD 2016
 
 1. [AutoCAD_2016_Simplified_Chinese_Win_64bit_dlm.sfx.exe](https://dds.autodesk.com/NET16SWDLD/2016/ACD/DLM/AutoCAD_2016_Simplified_Chinese_Win_64bit_dlm.sfx.exe)
-
-## AutoCAD 2015
-
-未找到经验证仍可下载的官方安装包直链。
